@@ -1,0 +1,2 @@
+error: the crate requires edition 2021, but the latest edition supported by this Rust version is 2018
+
